@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Angel Goat",
+  "base_artist": "Eric.B.Jr.",
+  "createdAt": "2025-12-30T14:43:00.161826Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Angel Goat",
+      "artist": "Eric.B.Jr.",
+      "has_synced": false,
+      "path": "select/01_Angel_Goat_Eric.B.Jr..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Angel Goat",
+      "artist": "Eric.B.Jr.",
+      "has_synced": false,
+      "path": "select/pl_01_Angel_Goat_Eric.B.Jr..txt"
+    }
+  ]
+}
